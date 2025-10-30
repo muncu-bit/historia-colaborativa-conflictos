@@ -1,10 +1,10 @@
 Lorem ipsum dolor sit amet consectetur adipiscing elit eleifend nunc, lectus commodo lacinia risus ante quis vestibulum porta diam, 
 scelerisque potenti magnis taciti volutpat fringilla dictumst augue. Cras ultrices massa nullam ut leo lectus risus, molestie ac inceptos vel maecenas urna, curae mus fusce magnis nisi fermentum.
-<<<<<<< HEAD
-Tellus aenean pharetra enim per duis at nam sed, quam cursus parturient scelerisque id ante montes, conubia nisi posuere commodo feugiat 
-dignissim pellentesque.
-=======
+
 Lorem ipsum dolor sit amet consectetur adipiscing elit habitant suspendisse vel faucibus, hendrerit convallis potenti dis per lacus at proin hac ad,
 netus quam est lacinia eros laoreet a aenean venenatis iaculis. Nam iaculis torquent eleifend luctus eget vehicula senectus interdum tincidunt convallis fames hendrerit proin integer, donec ac commodo aptent nulla sociosqu vel pulvinar curabitur non ante faucibus.
 Curabitur nostra duis platea nibh dui auctor pharetra condimentum ante, proin cubilia magna ultricies libero facilisi integer turpis, eros lacinia taciti sem nec penatibus dictum erat.
->>>>>>> 737bf57ebc636f28d2483fe1eb440f806fde5eb8
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit habitant suspendisse vel faucibus, hendrerit convallis potenti dis per lacus at proin hac ad,
+netus quam est lacinia eros laoreet a aenean venenatis iaculis. Nam iaculis torquent eleifend luctus eget vehicula senectus interdum tincidunt convallis fames hendrerit proin integer, donec ac commodo aptent nulla sociosqu vel pulvinar curabitur non ante faucibus.
+Curabitur nostra duis platea nibh dui auctor pharetra condimentum ante, proin cubilia magna ultricies libero facilisi integer turpis, eros lacinia taciti sem nec penatibus dictum erat.
